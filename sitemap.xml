@@ -1,32 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-		<sitemap>
-			<loc>https://weili-sleep.github.io/tech-blog/en/sitemap.xml</loc>
-			
-				<lastmod>2026-01-26T00:00:00+00:00</lastmod>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://weili-sleep.github.io/tech-blog/zh/sitemap.xml</loc>
-			
-				<lastmod>2026-01-26T00:00:00+00:00</lastmod>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://weili-sleep.github.io/tech-blog/zh-hant-tw/sitemap.xml</loc>
-			
-				<lastmod>2026-01-26T00:00:00+00:00</lastmod>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://weili-sleep.github.io/tech-blog/ja/sitemap.xml</loc>
-			
-				<lastmod>2026-01-26T00:00:00+00:00</lastmod>
-			
-		</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://weili-sleep.github.io/tech-blog/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/categories/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/tags/latex/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/p/latex%E5%B8%B8%E7%94%A8%E7%AC%A6%E5%8F%B7/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/categories/markdown/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/post/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/tags/</loc>
+    <lastmod>2026-07-12T10:37:27+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/page/</loc>
+    <lastmod>2026-01-26T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2026-01-26T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/page/2notes/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/page/3projects/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/categories/documentation/documentation/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/%E9%93%BE%E6%8E%A5/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/categories/petroleumrefiningengineering/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/search/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/categories/documentation/</loc>
+  </url><url>
+    <loc>https://weili-sleep.github.io/tech-blog/categories/documentation/documentation/</loc>
+  </url>
+</urlset>

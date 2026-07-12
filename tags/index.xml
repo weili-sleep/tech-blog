@@ -1,81 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Hugo Theme Stack</title>
+        <title>Tags on Weiliy&#39;s Blog</title>
         <link>https://weili-sleep.github.io/tech-blog/tags/</link>
-        <description>Recent content in Tags on Hugo Theme Stack</description>
+        <description>Recent content in Tags on Weiliy&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://weili-sleep.github.io/tech-blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Gallery</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/gallery/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/gallery/</guid>
-            <description></description>
-        </item><item>
-            <title>Photoswipe</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/photoswipe/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/photoswipe/</guid>
-            <description></description>
-        </item><item>
-            <title>Privacy</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/privacy/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/privacy/</guid>
-            <description></description>
-        </item><item>
-            <title>Shortcodes</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/shortcodes/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/shortcodes/</guid>
-            <description></description>
-        </item><item>
-            <title>Css</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/css/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/css/</guid>
-            <description></description>
-        </item><item>
-            <title>Html</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/html/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/html/</guid>
-            <description></description>
-        </item><item>
-            <title>Markdown</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/markdown/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/markdown/</guid>
-            <description></description>
-        </item><item>
-            <title>Themes</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/themes/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/themes/</guid>
-            <description></description>
-        </item><item>
-            <title>Diagrams</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/diagrams/</link>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/diagrams/</guid>
-            <description></description>
-        </item><item>
-            <title>Mermaid</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/mermaid/</link>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/mermaid/</guid>
-            <description></description>
-        </item><item>
-            <title>Pagination</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/pagination/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/pagination/</guid>
-            <description></description>
-        </item><item>
-            <title>Test</title>
-            <link>https://weili-sleep.github.io/tech-blog/tags/test/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://weili-sleep.github.io/tech-blog/tags/test/</guid>
+        <language>zh-CN</language>
+        <lastBuildDate>Sun, 12 Jul 2026 10:37:27 +0800</lastBuildDate><atom:link href="https://weili-sleep.github.io/tech-blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>LaTex</title>
+            <link>https://weili-sleep.github.io/tech-blog/tags/latex/</link>
+            <pubDate>Sun, 12 Jul 2026 10:37:27 +0800</pubDate>
+            <guid>https://weili-sleep.github.io/tech-blog/tags/latex/</guid>
             <description></description>
         </item></channel>
 </rss>
